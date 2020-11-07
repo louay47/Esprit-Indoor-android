@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Esprit Indoor</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_right_drawer">Right Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="storage_permission_denied_message">No access to external storage. Permission needed for displaying floor plans</string>
+    <string name="permission_button_accept">Sure</string>
+    <string name="location_permission_request_title">Permission required</string>
+    <string name="location_permission_request_rationale">Access to coarse location is required for faster first fix.</string>
+    <string name="permission_button_deny">Deny</string>
+    <string name="location_permission_denied_message">No access to locations. Time to first fix may be severely delayed!</string>
+    <string name="button_close">Close</string>
+    <string name="share_dialog_title">Your shared name?</string>
+    <string name="button_ok">OK</string>
+    <string name="menu_set_channel">Set channel</string>
+    <string name="menu_change_color">Change color</string>
+    <string name="channel_dialog_title">Channel name</string>
+    <string name="error_setting_channel">Setting channel failed: %s</string>
+    <string name="current_channel">Current channel: %s</string>
+    <string name="title_my_name">Me: %s</string>
+
+</resources>

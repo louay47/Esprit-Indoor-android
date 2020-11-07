@@ -1,0 +1,8 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.0829687,36.8178446,0]},"properties":{"name":"kitchen","description":"floor: 1 lon: 10.0829687 lat: 36.8178446","floor":"1","lon":"10.0829687","lat":"36.8178446"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.0829166,36.8178167,0]},"properties":{"name":"living room","description":"floor:  lon: 10.0829166 lat: 36.8178167","floor":"","lon":"10.0829166","lat":"36.8178167"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.0829312,36.8177851,0]},"properties":{"name":"Living room 2","description":"floor: 1 lon: 10.0829312 lat: 36.8177851","floor":"1","lon":"10.0829312","lat":"36.8177851"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.0829626,36.8177955,0]},"properties":{"name":"Louay room","description":"floor: 1 lon: 10.0829626 lat: 36.8177955","floor":"1","lon":"10.0829626","lat":"36.8177955"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.0830043,36.8178101,0]},"properties":{"name":"bedroom","description":"floor: 1 lon: 10.0830043 lat: 36.8178101","floor":"1","lon":"10.0830043","lat":"36.8178101"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.0829888,36.8178296,0]},"properties":{"name":"bathroom","description":"floor: 1 lon: 10.0829888 lat: 36.8178296","floor":"1","lon":"10.0829888","lat":"36.8178296"}}
+]}

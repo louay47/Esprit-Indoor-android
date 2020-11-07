@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.kommunicate:kommunicateui:1.9.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/651309a4d326e4f4d8e041663a0063aa/jetified-kommunicateui-1.9.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/651309a4d326e4f4d8e041663a0063aa/jetified-kommunicateui-1.9.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kommunicate/kommunicateui/1.9.0/5dc8e70bd6b2cec3cfb56c3fc81ef1a4affd1de/kommunicateui-1.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.kommunicate/kommunicateui/1.9.0/b16f6079ce45a5a01b153a572358e5fb6b54fa70/kommunicateui-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

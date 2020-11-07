@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/gradiant_notification"
+    android:id="@+id/parentLayout"
+    android:outlineAmbientShadowColor="@color/gradStart"
+    android:outlineSpotShadowColor="@color/gradEnd"
+  >
+
+
+
+
+        <ImageView
+            android:id="@+id/notifImage"
+            android:layout_width="40dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            app:srcCompat="@drawable/ic_notifications">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/newNotification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Invitation"
+            android:textAlignment="center"
+            android:textColor="@color/grey"
+            android:textSize="20dp"
+            android:textStyle="bold"></TextView>
+
+        <TextView
+            android:id="@+id/notifDescription"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/newNotification"
+            android:text="Chatti Louay vous envoyer invitation"
+            android:textColor="@color/grey"
+            android:textSize="17dp"></TextView>
+
+    <Button
+        android:id="@+id/btnAccept"
+        android:layout_width="76dp"
+        android:layout_height="20dp"
+        android:layout_below="@+id/notifDescription"
+        android:layout_alignParentRight="true"
+        android:background="@color/followersBG"
+        android:shadowColor="@color/circleBorder"
+        android:text="Accept">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btnRefuse"
+        android:layout_width="76dp"
+        android:layout_height="20dp"
+        android:layout_below="@+id/notifDescription"
+        android:layout_alignParentLeft="@+id/btnAccept"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="12dp"
+        android:layout_toStartOf="@+id/btnAccept"
+        android:background="@color/followersBG"
+        android:shadowColor="@color/circleBorder"
+        android:text="Refuse">
+
+    </Button>
+
+
+</RelativeLayout>

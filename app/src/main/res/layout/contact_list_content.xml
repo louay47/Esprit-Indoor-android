@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Layout for single list item in Contact List Activity -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:background="?android:attr/selectableItemBackground"
+    android:orientation="horizontal"
+    android:divider="#00ff00"
+    android:dividerPadding="22dip"
+    android:showDividers="middle"
+     >
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/contact_list_image"
+        android:layout_width="54dp"
+        android:layout_height="54dp"
+        android:layout_marginLeft="10dp"/>
+
+
+    <TextView
+        android:id="@+id/contact_list_name"
+        android:layout_width="138dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:gravity="center|left"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/track"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="track"
+        android:drawableLeft="@drawable/track"
+        android:background="@color/followersBG"
+        />
+
+    <Button
+        android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="message"
+        android:drawableLeft="@drawable/message"
+
+        android:background="@color/followingBG"
+
+        />
+
+</LinearLayout>

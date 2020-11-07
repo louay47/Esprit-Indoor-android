@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>points.csv</name>
+    <Style id="icon-1501-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1526-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1577-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1602-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1687-757575-labelson">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1895-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>kitchen</name>
+      <description><![CDATA[floor: 1<br>lon: 10.082969<br>lat: 36.817843]]></description>
+      <styleUrl>#icon-1577-FF5252-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="floor">
+          <value>1</value>
+        </Data>
+        <Data name="lon">
+          <value>10.082969</value>
+        </Data>
+        <Data name="lat">
+          <value>36.817843</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          10.082969,36.817843,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>living room</name>
+      <description><![CDATA[floor: <br>lon: 10.0829153<br>lat: 36.8178194]]></description>
+      <styleUrl>#icon-1895-FBC02D-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="floor">
+          <value/>
+        </Data>
+        <Data name="lon">
+          <value>10.0829153</value>
+        </Data>
+        <Data name="lat">
+          <value>36.8178194</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          10.0829153,36.8178194,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Living room 2</name>
+      <description><![CDATA[floor: 1<br>lon: 10.0829312<br>lat: 36.8177851]]></description>
+      <styleUrl>#icon-1526-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="floor">
+          <value>1</value>
+        </Data>
+        <Data name="lon">
+          <value>10.0829312</value>
+        </Data>
+        <Data name="lat">
+          <value>36.8177851</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          10.0829312,36.8177851,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Louay room</name>
+      <description><![CDATA[floor: 1<br>lon: 10.0829626<br>lat: 36.8177955]]></description>
+      <styleUrl>#icon-1501-FF5252-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="floor">
+          <value>1</value>
+        </Data>
+        <Data name="lon">
+          <value>10.0829626</value>
+        </Data>
+        <Data name="lat">
+          <value>36.8177955</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          10.0829626,36.8177955,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>bedroom</name>
+      <description><![CDATA[floor: 1<br>lon: 10.0830019<br>lat: 36.8178162]]></description>
+      <styleUrl>#icon-1602-9C27B0-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="floor">
+          <value>1</value>
+        </Data>
+        <Data name="lon">
+          <value>10.0830019</value>
+        </Data>
+        <Data name="lat">
+          <value>36.8178162</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          10.0830019,36.8178162,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>bathroom</name>
+      <description><![CDATA[floor: 1<br>lon: 10.0829898<br>lat: 36.8178344]]></description>
+      <styleUrl>#icon-1687-757575-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="floor">
+          <value>1</value>
+        </Data>
+        <Data name="lon">
+          <value>10.0829898</value>
+        </Data>
+        <Data name="lat">
+          <value>36.8178344</value>
+        </Data>
+      </ExtendedData>
+      <MultiGeometry>
+      <Point>
+        <coordinates>
+          10.0829898,36.8178344,0
+        </coordinates>
+      </Point>
+      </MultiGeometry>
+      <Name>Some fancy Name</Name>
+      	<Description>Here is a description</Description>
+    </Placemark>
+  </Document>
+</kml>

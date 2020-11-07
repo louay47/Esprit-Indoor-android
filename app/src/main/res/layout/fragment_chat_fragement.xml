@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:chatview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ViewModel.ChatFragement">
+
+    <!-- TODO: Update blank fragment layout -->
+    <co.intentservice.chatui.ChatView
+        android:id="@+id/chat_view"
+        android:layout_width="match_parent"
+        android:layout_height="626dp"
+        chatview:backgroundColor="@color/white"
+        chatview:bubbleBackgroundRcv="@color/followersBG"
+        chatview:bubbleBackgroundSend="@color/colorPrimary"
+        chatview:bubbleElevation="elevated"
+        chatview:inputBackgroundColor="@color/colorPrimary"
+        chatview:inputHint="Type your message here"
+        chatview:inputHintColor="@color/white"
+
+
+        chatview:sendBtnBackgroundTint="@color/followers"
+        chatview:sendBtnIcon="@drawable/message"
+        chatview:sendBtnIconTint="@color/followers" />
+
+</FrameLayout>

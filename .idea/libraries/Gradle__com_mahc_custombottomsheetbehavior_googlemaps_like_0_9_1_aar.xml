@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mahc.custombottomsheetbehavior:googlemaps-like:0.9.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64dacf4f0829f521bf05780149f8988d/jetified-googlemaps-like-0.9.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64dacf4f0829f521bf05780149f8988d/jetified-googlemaps-like-0.9.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64dacf4f0829f521bf05780149f8988d/jetified-googlemaps-like-0.9.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mahc.custombottomsheetbehavior/googlemaps-like/0.9.1/f8cc1485076ed593591127b4d95d688f04297119/googlemaps-like-0.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mahc.custombottomsheetbehavior/googlemaps-like/0.9.1/3c7988f5bf9ebea38d4c3115917bfb18f5acf921/googlemaps-like-0.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

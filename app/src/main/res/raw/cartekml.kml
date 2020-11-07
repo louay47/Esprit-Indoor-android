@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Carte sans titre</name>
+    <description/>
+    <Style id="icon-1526-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1577-FF5252-labelson">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1602-9C27B0-labelson">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1687-757575-labelson">
+      <IconStyle>
+        <color>ff757575</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1895-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-971-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="poly-0097A7-1200-77-normal">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0097A7-1200-77-highlight">
+      <LineStyle>
+        <color>ffa79700</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4da79700</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0097A7-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0097A7-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0097A7-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-558B2F-1-77-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>0.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-558B2F-1-77-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>0.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d2f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-1-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-1-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-1-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-9C27B0-1200-77-normal">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-9C27B0-1200-77-highlight">
+      <LineStyle>
+        <color>ffb0279c</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4db0279c</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-9C27B0-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-9C27B0-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-9C27B0-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FADA80-1200-77-normal">
+      <LineStyle>
+        <color>ff80dafa</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d80dafa</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FADA80-1200-77-highlight">
+      <LineStyle>
+        <color>ff80dafa</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d80dafa</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FADA80-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FADA80-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FADA80-1200-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>map.kml</name>
+      <Placemark>
+        <name>aaaaa</name>
+        <description><![CDATA[description: small room<br>floor: 1<br>marker-color: <br>marker-size: <br>marker-symbol: <br>stroke: <br>stroke-width: <br>stroke-opacity: <br>fill: <br>fill-opacity: <br>text: ]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>small room</value>
+          </Data>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="marker-color">
+            <value/>
+          </Data>
+          <Data name="marker-size">
+            <value/>
+          </Data>
+          <Data name="marker-symbol">
+            <value/>
+          </Data>
+          <Data name="stroke">
+            <value/>
+          </Data>
+          <Data name="stroke-width">
+            <value/>
+          </Data>
+          <Data name="stroke-opacity">
+            <value/>
+          </Data>
+          <Data name="fill">
+            <value/>
+          </Data>
+          <Data name="fill-opacity">
+            <value/>
+          </Data>
+          <Data name="text">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.08297,36.817802,0
+                10.082983,36.817784,0
+                10.083004,36.817795,0
+                10.082991,36.817812,0
+                10.08297,36.817802,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>aeaeaea</name>
+        <description><![CDATA[description: kitchen<br>floor: 1<br>marker-color: <br>marker-size: <br>marker-symbol: <br>stroke: <br>stroke-width: <br>stroke-opacity: <br>fill: <br>fill-opacity: <br>text: ]]></description>
+        <styleUrl>#poly-FADA80-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>kitchen</value>
+          </Data>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="marker-color">
+            <value/>
+          </Data>
+          <Data name="marker-size">
+            <value/>
+          </Data>
+          <Data name="marker-symbol">
+            <value/>
+          </Data>
+          <Data name="stroke">
+            <value/>
+          </Data>
+          <Data name="stroke-width">
+            <value/>
+          </Data>
+          <Data name="stroke-opacity">
+            <value/>
+          </Data>
+          <Data name="fill">
+            <value/>
+          </Data>
+          <Data name="fill-opacity">
+            <value/>
+          </Data>
+          <Data name="text">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.082949,36.817847,0
+                10.082962,36.817829,0
+                10.082991,36.817842,0
+                10.082978,36.81786,0
+                10.082949,36.817847,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>aeaeae</name>
+        <description><![CDATA[description: bathroom<br>floor: 1<br>marker-color: <br>marker-size: <br>marker-symbol: <br>stroke: <br>stroke-width: <br>stroke-opacity: <br>fill: <br>fill-opacity: <br>text: ]]></description>
+        <styleUrl>#poly-9C27B0-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>bathroom</value>
+          </Data>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="marker-color">
+            <value/>
+          </Data>
+          <Data name="marker-size">
+            <value/>
+          </Data>
+          <Data name="marker-symbol">
+            <value/>
+          </Data>
+          <Data name="stroke">
+            <value/>
+          </Data>
+          <Data name="stroke-width">
+            <value/>
+          </Data>
+          <Data name="stroke-opacity">
+            <value/>
+          </Data>
+          <Data name="fill">
+            <value/>
+          </Data>
+          <Data name="fill-opacity">
+            <value/>
+          </Data>
+          <Data name="text">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.082975,36.817833,0
+                10.082986,36.817818,0
+                10.083003,36.817826,0
+                10.082992,36.817842,0
+                10.082975,36.817833,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>eaeae</name>
+        <description><![CDATA[description: bedroom<br>floor: 1<br>marker-color: <br>marker-size: <br>marker-symbol: <br>stroke: #555555<br>stroke-width: 2<br>stroke-opacity: 1<br>fill: #0b869f<br>fill-opacity: 0.5<br>text: bedroom]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>bedroom</value>
+          </Data>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="marker-color">
+            <value/>
+          </Data>
+          <Data name="marker-size">
+            <value/>
+          </Data>
+          <Data name="marker-symbol">
+            <value/>
+          </Data>
+          <Data name="stroke">
+            <value>#555555</value>
+          </Data>
+          <Data name="stroke-width">
+            <value>2</value>
+          </Data>
+          <Data name="stroke-opacity">
+            <value>1</value>
+          </Data>
+          <Data name="fill">
+            <value>#0b869f</value>
+          </Data>
+          <Data name="fill-opacity">
+            <value>0.5</value>
+          </Data>
+          <Data name="text">
+            <value>bedroom</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.082987,36.817817,0
+                10.083004,36.817795,0
+                10.083021,36.817803,0
+                10.083005,36.817825,0
+                10.082987,36.817817,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Polygone 8</name>
+        <description><![CDATA[description: <br>floor: <br>marker-color: <br>marker-size: <br>marker-symbol: <br>stroke: <br>stroke-width: <br>stroke-opacity: <br>fill: <br>fill-opacity: <br>text: ]]></description>
+        <styleUrl>#poly-558B2F-1-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="floor">
+            <value/>
+          </Data>
+          <Data name="marker-color">
+            <value/>
+          </Data>
+          <Data name="marker-size">
+            <value/>
+          </Data>
+          <Data name="marker-symbol">
+            <value/>
+          </Data>
+          <Data name="stroke">
+            <value/>
+          </Data>
+          <Data name="stroke-width">
+            <value/>
+          </Data>
+          <Data name="stroke-opacity">
+            <value/>
+          </Data>
+          <Data name="fill">
+            <value/>
+          </Data>
+          <Data name="fill-opacity">
+            <value/>
+          </Data>
+          <Data name="text">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.082957,36.817818,0
+                10.082938,36.817842,0
+                10.082882,36.817815,0
+                10.0829,36.817791,0
+                10.082957,36.817818,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>eeeee</name>
+        <description><![CDATA[description: louay room<br>floor: 1<br>marker-color: <br>marker-size: <br>marker-symbol: <br>stroke: <br>stroke-width: <br>stroke-opacity: <br>fill: <br>fill-opacity: <br>text: ]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>louay room</value>
+          </Data>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="marker-color">
+            <value/>
+          </Data>
+          <Data name="marker-size">
+            <value/>
+          </Data>
+          <Data name="marker-symbol">
+            <value/>
+          </Data>
+          <Data name="stroke">
+            <value/>
+          </Data>
+          <Data name="stroke-width">
+            <value/>
+          </Data>
+          <Data name="stroke-opacity">
+            <value/>
+          </Data>
+          <Data name="fill">
+            <value/>
+          </Data>
+          <Data name="fill-opacity">
+            <value/>
+          </Data>
+          <Data name="text">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.08296,36.817774,0
+                10.082982,36.817784,0
+                10.082964,36.817807,0
+                10.082943,36.817797,0
+                10.08296,36.817774,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>aaaaa</name>
+        <description><![CDATA[description: living room 2<br>floor: 1<br>marker-color: red<br>marker-size: <br>marker-symbol: <br>stroke: <br>stroke-width: <br>stroke-opacity: <br>fill: <br>fill-opacity: <br>text: ]]></description>
+        <styleUrl>#poly-0097A7-1200-77</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>living room 2</value>
+          </Data>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="marker-color">
+            <value>red</value>
+          </Data>
+          <Data name="marker-size">
+            <value/>
+          </Data>
+          <Data name="marker-symbol">
+            <value/>
+          </Data>
+          <Data name="stroke">
+            <value/>
+          </Data>
+          <Data name="stroke-width">
+            <value/>
+          </Data>
+          <Data name="stroke-opacity">
+            <value/>
+          </Data>
+          <Data name="fill">
+            <value/>
+          </Data>
+          <Data name="fill-opacity">
+            <value/>
+          </Data>
+          <Data name="text">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                10.082924,36.817757,0
+                10.08296,36.817773,0
+                10.0829347,36.8178061,0
+                10.0829,36.817789,0
+                10.082924,36.817757,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>points.csv</name>
+      <Placemark>
+        <name>kitchen</name>
+        <description><![CDATA[floor: 1<br>lon: 10.0829687<br>lat: 36.8178446]]></description>
+        <styleUrl>#icon-1577-FF5252-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="lon">
+            <value>10.0829687</value>
+          </Data>
+          <Data name="lat">
+            <value>36.8178446</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.0829687,36.8178446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>living room</name>
+        <description><![CDATA[floor: <br>lon: 10.0829166<br>lat: 36.8178167]]></description>
+        <styleUrl>#icon-1895-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="floor">
+            <value/>
+          </Data>
+          <Data name="lon">
+            <value>10.0829166</value>
+          </Data>
+          <Data name="lat">
+            <value>36.8178167</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.0829166,36.8178167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Living room 2</name>
+        <description><![CDATA[floor: 1<br>lon: 10.0829312<br>lat: 36.8177851]]></description>
+        <styleUrl>#icon-1526-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="lon">
+            <value>10.0829312</value>
+          </Data>
+          <Data name="lat">
+            <value>36.8177851</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.0829312,36.8177851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louay room</name>
+        <description><![CDATA[floor: 1<br>lon: 10.0829626<br>lat: 36.8177955]]></description>
+        <styleUrl>#icon-971-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="lon">
+            <value>10.0829626</value>
+          </Data>
+          <Data name="lat">
+            <value>36.8177955</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.0829626,36.8177955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bedroom</name>
+        <description><![CDATA[floor: 1<br>lon: 10.0830043<br>lat: 36.8178101]]></description>
+        <styleUrl>#icon-1602-9C27B0-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="lon">
+            <value>10.0830043</value>
+          </Data>
+          <Data name="lat">
+            <value>36.8178101</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.0830043,36.8178101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bathroom</name>
+        <description><![CDATA[floor: 1<br>lon: 10.0829888<br>lat: 36.8178296]]></description>
+        <styleUrl>#icon-1687-757575-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="floor">
+            <value>1</value>
+          </Data>
+          <Data name="lon">
+            <value>10.0829888</value>
+          </Data>
+          <Data name="lat">
+            <value>36.8178296</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            10.0829888,36.8178296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

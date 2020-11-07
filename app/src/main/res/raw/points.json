@@ -1,0 +1,4 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.082969,36.817843,0]},"properties":{"name":"kitchen","description":"floor: 1<br>lon: 10.082969<br>lat: 36.817843","floor":"1","lon":"10.082969","lat":"36.817843"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[10.0829153,36.8178194,0]},"properties":{"name":"living room","description":"floor: <br>lon: 10.0829153<br>lat: 36.8178194","floor":"","lon":"10.0829153","lat":"36.8178194"}}
+]}
